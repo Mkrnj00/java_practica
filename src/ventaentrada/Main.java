@@ -2,6 +2,7 @@
 package ventaentrada;
 
 import java.util.Scanner;
+//falta descuento y stock
 
 public class Main {
     public static void main(String[] args) {
